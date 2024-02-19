@@ -4,10 +4,10 @@ The goal of the project is to create a Snake game in Python.
 Second goal, create a neural network able to win the game
 
 ## TO-DO:
-- [ ] Organize the directory
+- [X] Organize the directory
 - [ ] Create the structure of the project
-- [ ] Organize the project technology stack
-- [ ] Create a working draft of the game
+- [X] Organize the project technology stack
+- [X] Create a working draft of the game
 - [ ] Create a draft of the gaming logic
 - [ ] Test the game
 - [ ] Modelize the mathemical problem of the game
